@@ -1,4 +1,4 @@
-# Embedded_System_PTIT_Exercise_2
+# Embedded_System_PTIT_Exercise_3
 ## Giới thiệu
 Bài tập 3 - Ngắt ngoài EXTI
 ## Yêu cầu:
